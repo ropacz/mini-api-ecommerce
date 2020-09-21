@@ -1,0 +1,24 @@
+{
+  "name": "mini-api-ecommerce",
+  "version": "1.0.0",
+  "description": "Partially implement an ecommerce in Node used the Koa - Challenge of Cubos.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ropacz/mini-api-ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ropacz/mini-api-ecommerce/issues"
+  },
+  "homepage": "https://github.com/ropacz/mini-api-ecommerce#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0"
+  }
+}
